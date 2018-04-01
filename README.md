@@ -1,5 +1,5 @@
 # RamirezforCouncil.github.io
-This is a website to help get Lucas Ramirez get elected to Mountain View City Council in 2016.
+This is a website to help get Lucas Ramirez get elected to Mountain View City Council in 2018.
 http://www.RamirezforCouncil.com
 
 We welcome input from everyone! You can fork, clone and submit a pull request to improve this website. Let us know your issues (whether they are website issues or issues about the city) in the issues tab of this repo.
@@ -9,3 +9,6 @@ View the repo wiki for more information on the tools being used to build this si
 https://github.com/RamirezforCouncil/RamirezforCouncil.github.io/wiki
 
 Thank you for your support!
+
+Paid for by Ramirez for Council 2018
+FPPC #1403128
