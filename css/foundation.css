@@ -3565,8 +3565,7 @@ table.hover tr:nth-of-type(even):hover {
 
 .clearfix::after {
   clear: both; }
-
- 
+  
 @media screen and (max-width: 39.9375em) {
   .no-js .top-bar {
     display: none;
@@ -3586,7 +3585,6 @@ table.hover tr:nth-of-type(even):hover {
 .sticky-container {
   z-index: 5;
 }
-
 
   
 /*# sourceMappingURL=foundation.css.map */
