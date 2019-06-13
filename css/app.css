@@ -205,6 +205,8 @@ ul li a.toggle:hover {
           justify-content: space-between;
   background: url("../img/headline1.jpg") center center no-repeat;
   background-size: cover;
+  background-image: linear-gradient(to bottom right, #dc4225, #002f4b);
+  opacity: .8;
 }
 
 .hero-full-screen .middle-content-section {
