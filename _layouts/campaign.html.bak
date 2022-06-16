@@ -51,10 +51,9 @@
 				<div class="top-bar-right">
 				
 					<ul class="dropdown menu vertical medium-horizontal" data-dropdown-menu>
-						<li><a href="announce.html" style="color: #fff; font-weight: bold;">Announcements</a></li>
-						<li><a href="resources.html" style="color: #fff; font-weight: bold;">Resources</a></li>
-						<li><a href="neighborhood.html" style="color: #fff; font-weight: bold;">Neighborhoods and Community Groups</a></li>
-						<li><a href="email.html" style="color: #fff; font-weight: bold;">Newsletter Sign-up/Archive</a></li>
+						<li><a href="https://forms.gle/s7xqGFpiQiYwgn1S6" style="color: #fff; font-weight: bold;">Get involved</a></li>
+						<li><a href="http://eepurl.com/dtwXcH" target="_blank" style="color: #fff; font-weight: bold;">Newsletter Sign-up</a></li>
+						<li><a href="https://www.ramirezforcouncil.com/donate.html" target="_blank" style="color: #fff; font-weight: bold;">Donate</a></li>
 					</ul>
 
 				</div>
@@ -93,6 +92,7 @@ function googleTranslateElementInit() {
     <div class="small-12 medium-4 large-6 columns">
 	<h4>Contact the Campaign</h4>
 	  <p><a href="mailto:lucas@ramirezforcouncil.com">lucas@ramirezforcouncil.com</a></p>
+	  <p><a href="https://forms.gle/DPfAvtkyz7QpLNJE7" target="_blank">Contact form</a></p>
 	  <p>P.O. Box 390211<br>Mountain View, CA 94039</p>
       <p>Paid for by Lucas Ramirez for Mountain View City Council 2022 <br>FPPC# 1448560</p>
 	  </div>
