@@ -20,7 +20,7 @@
 
 .greybg {
 	background-size: cover;
-	background-color: #00205B;}
+	background-color: #1d1d1d;}
 	.greybg h1 {
     color: #fff;
     font-size: 1.5rem;
